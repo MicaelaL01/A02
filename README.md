@@ -24,18 +24,18 @@ Tutorial:
 
 Glossary:
 
-- **Branch** - 
-- **Clone**
-- **Commit**
-- **Fetch**
-- **GIT**
-- **Github**
-- **Merge**
-- **Merge Conflict**
-- **Push**
-- **Pull**
-- **Remote**
-- **Repository**
+- **Branch** - Seperate workspace where you can make changes.
+- **Clone** - A copy of a repository on the device.
+- **Commit** - A change to the project.
+- **Fetch** - Download updates from Github without application.
+- **GIT** - Site that tracks changes in code.
+- **Github** - An open source version control system, and site that stores Git repositories online.
+- **Merge** - Combination changes from different branches.
+- **Merge Conflict** - A problem when seperate changes affect the same part of the file.
+- **Push** - Changes to Github sent.
+- **Pull** - Retreiving newest changes from Github.
+- **Remote** - Version of repository that is stored on GitHub.
+- **Repository** - Project folder that is tracked by Git.
 
 References: 
 
