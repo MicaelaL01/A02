@@ -21,3 +21,26 @@ Tutorial:
 14. Make sure to commit your changes, if any.
 15. Transfer the change to the remote repository by clicking, Ctrl + Shift + K.
 16. Your file should now appear on Github.
+
+Glossary:
+
+- **Branch** - 
+- **Clone**
+- **Commit**
+- **Fetch**
+- **GIT**
+- **Github**
+- **Merge**
+- **Merge Conflict**
+- **Push**
+- **Pull**
+- **Remote**
+- **Repository**
+
+References: 
+
+https://www.datacamp.com/blog/git-vs-github
+
+https://git-scm.com/book/en/v2
+
+Introduction to Github and Webstorm Slideshow
